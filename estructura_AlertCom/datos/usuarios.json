@@ -1,0 +1,29 @@
+[
+  {
+    "id_usuario": 1,
+    "nombre": "Administrador Municipal",
+    "email": "admin@gmail.com",
+    "rol": "municipal",
+    "comuna": "Temuco",
+    "sal": "c99e3bbbe671c9d6e74fe1b43c128ac8",
+    "hash_contrasena": "a1ef50f38a6952ef6d34f46fb6c91c311e9d8d4e3e48fd0017fff3ccc3e15500"
+  },
+  {
+    "id_usuario": 2,
+    "nombre": "Juan Pérez González",
+    "email": "vecino@alertcom.cl",
+    "rol": "vecino",
+    "comuna": "Temuco",
+    "sal": "c40a0719f4d7efbb830073ed415f09e4",
+    "hash_contrasena": "855441e4703e2da3dddac7dedacf532550fe3513570689e00fab756900c8aaee"
+  },
+  {
+    "id_usuario": 3,
+    "nombre": "felipe astete",
+    "email": "felipe@gmail.com",
+    "rol": "vecino",
+    "comuna": "Temuco",
+    "sal": "31d5c8b28ca6f46b34a8def10da7b9d6",
+    "hash_contrasena": "3d68440927b094e30625cbc022f9e681788edc352621967ef1dbea3495e23eb5"
+  }
+]

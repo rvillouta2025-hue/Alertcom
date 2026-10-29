@@ -1,0 +1,13 @@
+[
+  {
+    "id_incidente": 1,
+    "tipo_incidente": "Grieta",
+    "descripcion": "hoyo cuidado",
+    "gravedad": "Moderado",
+    "imagen": "mock_foto_reporte.jpg",
+    "ubicacion": "-38.7359, -72.5904",
+    "estado": "Pendiente",
+    "usuario_id": 1,
+    "fecha_creacion": "2026-10-28 16:18:03"
+  }
+]

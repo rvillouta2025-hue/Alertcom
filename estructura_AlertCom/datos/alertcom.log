@@ -1,0 +1,18 @@
+2026-10-28 10:07:27,078 [INFO] alertcom.datos: No existe usuarios.json todavía (instalación nueva).
+2026-10-28 10:07:27,079 [INFO] alertcom.auth: Creando usuarios.json con las cuentas de demostración.
+2026-10-28 10:07:27,081 [INFO] alertcom.datos: No existe incidentes.json todavía (instalación nueva).
+2026-10-28 10:07:27,416 [INFO] alertcom: AlertCom iniciado. Datos en: C:\Users\FELIPE ASTETE\Desktop\AlertCom\estructura_AlertCom\datos
+2026-10-28 10:07:27,418 [INFO] alertcom.config_remota: Solicitando configuración remota…
+2026-10-28 10:07:31,181 [WARNING] alertcom.config_remota: Servidor respondió con error HTTP 404. Se mantienen valores locales.
+2026-10-28 10:07:40,223 [INFO] alertcom.auth: Sesión iniciada (usuario id=1).
+2026-10-28 16:17:06,593 [INFO] alertcom.datos: No existe incidentes.json todavía (instalación nueva).
+2026-10-28 16:17:06,913 [INFO] alertcom: AlertCom iniciado. Datos en: C:\Users\FELIPE ASTETE\Desktop\AlertCom\estructura_AlertCom\datos
+2026-10-28 16:17:06,916 [INFO] alertcom.config_remota: Solicitando configuración remota…
+2026-10-28 16:17:07,439 [WARNING] alertcom.config_remota: Servidor respondió con error HTTP 404. Se mantienen valores locales.
+2026-10-28 16:17:31,629 [INFO] alertcom.auth: Sesión iniciada (usuario id=1).
+2026-10-28 16:18:03,667 [INFO] alertcom.notificaciones: Notificación enviada: Reporte enviado
+2026-10-28 16:19:10,006 [INFO] alertcom.auth: Cuenta creada (usuario id=3).
+2026-10-28 17:33:48,996 [INFO] alertcom: AlertCom iniciado. Datos en: C:\Users\FELIPE ASTETE\Desktop\AlertCom\estructura_AlertCom\datos
+2026-10-28 17:33:49,456 [INFO] alertcom.config_remota: Solicitando configuración remota…
+2026-10-28 17:33:49,877 [WARNING] alertcom.config_remota: Servidor respondió con error HTTP 404. Se mantienen valores locales.
+2026-10-28 17:34:01,185 [INFO] alertcom.auth: Sesión iniciada (usuario id=3).
